@@ -5,9 +5,9 @@
 
 # Que contiene?
 
-1.Valida la contraseña con expresiones regulares, al igual quebel correo.
-2.El usuario puede dar click en el ojo para ver la clave o ocultarla.
-3.Si los datos estan correctos piede dar click en ingresar y lo redirecciona ala pagina destino.
+1. Valida la contraseña con expresiones regulares, al igual quebel correo.
+2. El usuario puede dar click en el ojo para ver la clave o ocultarla.
+3. Si los datos estan correctos piede dar click en ingresar y lo redirecciona ala pagina destino.
 
 
 # Como se validan los datos?
