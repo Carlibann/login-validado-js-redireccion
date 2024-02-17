@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="User_login.css" type="text/css" media="all" />
+    <title>Login Responsivo</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://kit.fontawesome.com/9e396b4e1a.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <div class="login-container glass">
+        <form class="login-form">
+            <h2>Iniciar Sesión</h2>
+            <label for="username">Usuario:</label>
+            <input type="email" id="email" name="username" required>
+            <span class="mensaje_Error_correo incorrecto">Correo Electrónico no valido</span>
+            <label for="password">Contraseña:</label>
+            <input type="password" id="password" name="password" required>
+              <i class="fa-solid fa-eye"></i>
+            <span class="mensaje_Error_clave incorrecto">Contraseña in correcta</span>
+             <a class="center enlace" href="#">¿Olvidaste tu contraseña?</a>
+            <button type="submit" id="send">Iniciar Sesión</button>
+            <i class="center">Notienes cuenta?<a class="enlace" href="#">crear una</a></i>
+        </form>
+    </div>
+    
+    <div class="container_modal" id="myModal">
+      <div class="modal">
+        <span class="loader"></span>
+      </div>
+    </div>
+    <script src="App.js">
+    </script>
+</body>
+</html>
