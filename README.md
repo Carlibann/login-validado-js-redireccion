@@ -1,5 +1,7 @@
 # Login que contiene validación de datos del usuario.
 
+![](https://badge-size.herokuapp.com/{Carlibann}/{repo}/{branch}/{index.html})
+
 ![](https://github.com/Carlibann/login-validado-js-redireccion/blob/main/Screenshot_20240217-160244.png)
 
 
