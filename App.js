@@ -83,7 +83,7 @@ function redireccionCarga(loader, modal) {
     // Espera 2 segundos antes de redirigir
     setTimeout(() => {
         modal.style.display = "none";
-        window.location.href = "http://localhost:8160/home.html";
+        window.location.href = "https://google.com";
     }, 2000);
 }
 
