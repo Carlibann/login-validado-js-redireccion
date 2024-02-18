@@ -14,3 +14,8 @@
 
 Los datos se validan de forme que cuando en usuario de click en el input para ingresar dicho dato al dejar de presionar la tecla se valida de manera automática.
 
+
+## Aqui puedes ver el resultado.
+
+https://carlibann.github.io/login-validado-js-redireccion/
+
